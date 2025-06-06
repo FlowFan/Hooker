@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Hooker"
 include(":app")
- 
+include(":hooker")
+include(":annotation")
